@@ -1,0 +1,27 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.languageServer": "Pylance",
+  "editor.rulers": [88],
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.importFormat": "absolute",
+  "python.analysis.indexing": true,
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.defaultInterpreterPath": null,
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.analysis.exclude": ["**/.git", "**/.venv", "**/node_modules"],
+  "python.venvPath": "${workspaceFolder}/projects",
+  "python.analysis.stubPath": "${workspaceFolder}/.vscode/stubs",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  },
+  "deno.enable": true
+}

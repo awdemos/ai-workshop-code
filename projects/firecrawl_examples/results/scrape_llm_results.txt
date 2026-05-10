@@ -1,0 +1,7 @@
+{
+  "business_name": "Whit's Frozen Custard",
+  "business_address": "Not available on this page, but can be found at https://whitscustard.com/findyourwhits",
+  "menu_items": "Not available on this page, but flavors can be found at https://whitscustard.com/flavor-of-the-week",
+  "operating_hours": "Not available on this page, but can be found at https://whitscustard.com/findyourwhits",
+  "phone": "Not available on this page"
+}
